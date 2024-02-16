@@ -24,12 +24,12 @@
   --description_color: #f1c40f;
 
   /* You can change the colors of social media icons by changing the color code. */
-  --svg_color: #fff;
+  --svg_color: #da5959;
 
   /* You can change the background, text color and active color of the menu by changing the color codes. */
   --menu_background_color: #0e0e0e;
   --menu_text_color: #fff;
-  --menu_active_text_color: #f1c40f;
+  --menu_active_text_color: #000000;
 
   /* You can change the button's background, text color and active color by changing the color codes. */
   --button_background_color: #0e0e0e;
